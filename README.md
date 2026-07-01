@@ -105,7 +105,7 @@
 
 <div align="center">
   <h3 align="left">Commit Activity</h3>
-  <img src="https://raw.githubusercontent.com/PrayatshuMisra/PrayatshuMisra/main/profile-summary-card-output/default/0-profile-details.svg" alt="Commit Activity" width="100%">
+  <img src="https://raw.githubusercontent.com/PrayatshuMisra/PrayatshuMisra/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Commit Activity" width="100%">
 </div>
 
 ### Contribution Snake
