@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=CS+(AI%2FML)+Undergrad;AI-First+Product+Builder;Hackathon+Enthusiast;Multi-Agent+AI+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D22B2B&center=true&vCenter=true&width=600&lines=CS+(AI%2FML)+Undergrad;AI-First+Product+Builder;Hackathon+Enthusiast;Multi-Agent+AI+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrayatshuMisra&icon=2&color=38B2AC" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=PrayatshuMisra&icon=2&color=D22B2B" alt="Profile Views">
 </p>
 
 ---
@@ -59,25 +59,28 @@
 ### 📌 Pinned Repositories
 <div align="center">
   <a href="https://github.com/PrayatshuMisra/hackathon_pars">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_pars&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 1">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_pars&bg_color=0D1117&title_color=D22B2B&text_color=FFFFFF&icon_color=228B22&hide_border=true" width="48%" alt="Pinned Repo 1">
   </a>
   <a href="https://github.com/PrayatshuMisra/hackathon_policypulse">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_policypulse&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 2">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_policypulse&bg_color=0D1117&title_color=D22B2B&text_color=FFFFFF&icon_color=228B22&hide_border=true" width="48%" alt="Pinned Repo 2">
   </a>
+  <br>
   <a href="https://github.com/PrayatshuMisra/hackathon_apacheai">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_apacheai&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 3">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_apacheai&bg_color=0D1117&title_color=D22B2B&text_color=FFFFFF&icon_color=228B22&hide_border=true" width="48%" alt="Pinned Repo 3">
   </a>
   <a href="https://github.com/PrayatshuMisra/hopeless-opus-25-26">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?
-      username=PrayatshuMisra&repo=hopeless-opus-25-26&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 4">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hopeless-opus-25-26&bg_color=0D1117&title_color=D22B2B&text_color=FFFFFF&icon_color=228B22&hide_border=true" width="48%" alt="Pinned Repo 4">
   </a>
+  <br>
   <a href="https://github.com/PrayatshuMisra/hackathon_greengrid">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_greengrid&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 2">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_greengrid&bg_color=0D1117&title_color=D22B2B&text_color=FFFFFF&icon_color=228B22&hide_border=true" width="48%" alt="Pinned Repo 5">
   </a>
   <a href="https://github.com/PrayatshuMisra/FoodOS">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=FoodOS&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 2">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=FoodOS&bg_color=0D1117&title_color=D22B2B&text_color=FFFFFF&icon_color=228B22&hide_border=true" width="48%" alt="Pinned Repo 6">
   </a>
 </div>
+
+<br>
 
 ### 🤝 Notable Contributions
 | ***Repository / Organization*** | ***Role & Contribution*** |
@@ -94,14 +97,16 @@
 
 | ***GitHub Stats*** | ***Current Streak*** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.shion.dev/api?username=PrayatshuMisra&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"> | <img src="https://streak-stats.demolab.com/?user=PrayatshuMisra&background=0D1117&border=0D1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakNum=FFFFFF&currStreakLabel=38B2AC&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="100%" alt="GitHub Streak"> |
+| <img src="https://github-readme-stats.shion.dev/api?username=PrayatshuMisra&bg_color=0D1117&title_color=D22B2B&text_color=FFFFFF&icon_color=228B22&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"> | <img src="https://streak-stats.demolab.com/?user=PrayatshuMisra&background=0D1117&border=0D1117&stroke=D22B2B&ring=228B22&fire=D22B2B&currStreakNum=FFFFFF&currStreakLabel=228B22&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="100%" alt="GitHub Streak"> |
 | ***LeetCode Progress*** | ***Top Languages*** |
-| <img src="https://leetcard.jacoblin.cool/PrayatshuMisra?theme=dark&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Stats"> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrayatshuMisra&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages"> |
+| <img src="https://leetcard.jacoblin.cool/PrayatshuMisra?theme=dark&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Stats"> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrayatshuMisra&bg_color=0D1117&title_color=D22B2B&text_color=FFFFFF&icon_color=228B22&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages"> |
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrayatshuMisra&bg_color=0D1117&color=FFFFFF&line=38B2AC&point=FFFFFF&hide_border=true&hide_title=true" alt="Activity Graph">
+  <picture>
+    <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Month Wise Commits" width="100%">
+  </picture>
 </div>
 
 ### Contribution Snake
