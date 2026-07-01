@@ -58,14 +58,14 @@
 
 | ***GitHub Stats*** | ***Current Streak*** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.shion.dev/api?username=PrayatshuMisra&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"> | <img src="https://streak-stats.demolab.com/?user=PrayatshuMisra&theme=dark&hide_border=false" width="100%" alt="GitHub Streak"> |
+| <img src="https://github-readme-stats.shion.dev/api?username=PrayatshuMisra&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"> | <img src="https://streak-stats.demolab.com/?user=PrayatshuMisra&background=0D1117&border=0D1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakNum=FFFFFF&currStreakLabel=38B2AC&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="100%" alt="GitHub Streak"> |
 | ***LeetCode Progress*** | ***Top Languages*** |
-| <img src="https://leetcard.jacoblin.cool/PrayatshuMisra?theme=dark&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Stats"> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrayatshuMisra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages"> |
+| <img src="https://leetcard.jacoblin.cool/PrayatshuMisra?theme=dark&font=Fira%20Code&ext=activity" width="100%" alt="LeetCode Stats"> | <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PrayatshuMisra&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" alt="Top Languages"> |
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrayatshuMisra&theme=react-dark&hide_border=false" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrayatshuMisra&bg_color=0D1117&color=FFFFFF&line=38B2AC&point=FFFFFF&hide_border=true&hide_title=true" alt="Activity Graph">
 </div>
 
 ### Contribution Snake
@@ -81,5 +81,5 @@
 
 ---
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
