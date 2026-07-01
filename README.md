@@ -14,7 +14,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrayatshuMisra&icon=2&color=3" alt="Profile Views">
+  <a href="https://open.spotify.com/track/4rHZZGW89PNUKzJ1r55hR2"><img src="https://img.shields.io/badge/Spotify-Vibing_to_Mirrors_by_Justin_Timberlake-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrayatshuMisra&icon=2&color=38B2AC" alt="Profile Views">
 </p>
 
 ---
@@ -27,13 +31,15 @@
 | :--- | :--- |
 | Scalable web applications supercharged by intelligent ML integrations. | *Multi-Agent AI, Semantic Search, RAG Pipelines,* and *System Design.* |
 
-<div align="center">
-  
-### 🏆 Milestones & Achievements
-![Winner](https://img.shields.io/badge/🥇_Winner-NIT--TRICHY_Pragyan'26_Hackathon-FFD700?style=for-the-badge) 
-![Runners Up](https://img.shields.io/badge/🥈_Runners_Up-MAHE--BLRU_HackSpace-C0C0C0?style=for-the-badge) 
-![Research](https://img.shields.io/badge/📄_Co--Author-AI_Research_Paper_(Elsevier)-007ACC?style=for-the-badge)
+<br>
 
+### 🏆 Milestones & Achievements
+<div align="center">
+  <img src="https://img.shields.io/badge/🥇_Winner-NIT--TRICHY_Pragyan'26_Hackathon-FFD700?style=for-the-badge" alt="Winner"><br>
+  <img src="https://img.shields.io/badge/🥈_Runners_Up-MAHE--BLRU_HackSpace-C0C0C0?style=for-the-badge" alt="Runners Up"><br>
+  <img src="https://img.shields.io/badge/📄_Co--Author-AI_Research_Paper_(Elsevier)-007ACC?style=for-the-badge" alt="Research"><br>
+  <img src="https://img.shields.io/badge/🏅_AIR_7-National_Mathematics_Olympiad_2019-8A2BE2?style=for-the-badge" alt="AIR 7 NMO"><br>
+  <img src="https://img.shields.io/badge/🏅_AIR_155-National_Talent_Search_Test_2019-FF69B4?style=for-the-badge" alt="AIR 155 NTST">
 </div>
 
 ---
@@ -49,6 +55,11 @@
 ---
 
 ## 📊 Analytics & Activity
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrayatshuMisra&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
+<br>
 
 | 📈 GitHub Stats | 🔥 Current Streak |
 | :---: | :---: |
@@ -69,6 +80,13 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrayatshuMisra/PrayatshuMisra/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrayatshuMisra/PrayatshuMisra/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br>
+
+### 🔝 Top Contributed Repositories
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=PrayatshuMisra&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos">
 </div>
 
 <br>
