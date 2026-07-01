@@ -54,6 +54,42 @@
 
 ---
 
+## Top Repositories & Contributions
+
+### 📌 Pinned Repositories
+<div align="center">
+  <a href="https://github.com/PrayatshuMisra/hackathon_pars">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_pars&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 1">
+  </a>
+  <a href="https://github.com/PrayatshuMisra/hackathon_policypulse">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_policypulse&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 2">
+  </a>
+  <a href="https://github.com/PrayatshuMisra/hackathon_apacheai">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_apacheai&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 3">
+  </a>
+  <a href="https://github.com/PrayatshuMisra/hopeless-opus-25-26">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?
+      username=PrayatshuMisra&repo=hopeless-opus-25-26&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 4">
+  </a>
+  <a href="https://github.com/PrayatshuMisra/hackathon_greengrid">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=hackathon_greengrid&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 2">
+  </a>
+  <a href="https://github.com/PrayatshuMisra/FoodOS">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=PrayatshuMisra&repo=FoodOS&bg_color=0D1117&title_color=38B2AC&text_color=FFFFFF&icon_color=38B2AC&hide_border=true" width="48%" alt="Pinned Repo 2">
+  </a>
+</div>
+
+### 🤝 Notable Contributions
+| ***Repository / Organization*** | ***Role & Contribution*** |
+| :--- | :--- |
+| **[Private Startup/TheSharedRoute](https://github.com/sparrow7559/TheSharedRoute)** *(Private)* | Shipped a production full-stack platform (React, Node.js, Express.js, MongoDB, Docker) serving live users, with end-to-end ownership of core modules from architecture to deployment. |
+| **[Healthcare Agent](https://github.com/shreshth410/healthcare_agent)** | Built an end-to-end agentic pipeline for the Economic Times AI hackathon, 2026 |
+| **[Aurora'26](https://github.com/ISTE-26/Aurora-26)** *(Private)* | Built for the Aurora Techweek 2026 |
+
+*(Note: My GitHub statistics below include my activity across both public and private repositories.)*
+
+---
+
 ## Analytics & Activity
 
 | ***GitHub Stats*** | ***Current Streak*** |
