@@ -104,9 +104,8 @@
 <br>
 
 <div align="center">
-  <picture>
-    <img src="[./profile-summary-card-output/github_dark/2-most-commit-language.svg](https://raw.githubusercontent.com/PrayatshuMisra/PrayatshuMisra/main/profile-summary-card-output/default/0-profile-details.svg)" alt="Month Wise Commits" width="100%">
-  </picture>
+  <h3 align="left">Commit Activity</h3>
+  <img src="https://raw.githubusercontent.com/PrayatshuMisra/PrayatshuMisra/main/profile-summary-card-output/default/0-profile-details.svg" alt="Commit Activity" width="100%">
 </div>
 
 ### Contribution Snake
